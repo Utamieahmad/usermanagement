@@ -1,4 +1,4 @@
-# Laravel Role Permission Management System - Laravel 7.x
+# Laravel Role Permission Management System - Laravel 8.x
 
 This is a basic Laravel Project with Laravel Role Permission Management System.
 
