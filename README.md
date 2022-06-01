@@ -1,13 +1,12 @@
 # Laravel Role Permission Management System - Laravel 7.x
 
-This is a basic Laravel Project with Laravel Role Permission Management System. 
+This is a basic Laravel Project with Laravel Role Permission Management System.
 
-## Project Setup 
-1. Git clone - `https://github.com/ManiruzzamanAkash/laravel-role.git`
+## Project Setup
+1. Git clone - `https://github.com/Utamieahmad/usermanagement.git`
 1. Install Laravel Dependencies - `composer update`
 1. Create database - `laravel_role`
-1. Migrate Database - `php artisan migrate`
-1. Install Seeders - `php artisan db:seed`
+1. Migrate Database - excute file .sql from 'usermanagement/database/sql/laravel_role.sql'
 1. Run Project - `php artisan serve`
 
 Since, there is any problem to seeder, Please import the .sql file directly - https://github.com/ManiruzzamanAkash/laravel-role/blob/master/database/sql/laravel_role.sql
@@ -15,7 +14,7 @@ Since, there is any problem to seeder, Please import the .sql file directly - ht
 So, You've got the project of Laravel Role & Permission Management on your http://localhost:8000
 
 ## Setup 2
-1. Login using Super Admin Credential - 
+1. Login using Super Admin Credential -
     1. Username - superadmin
     1. Password - 12345678
 1. Create Admin
