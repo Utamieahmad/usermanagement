@@ -6,7 +6,7 @@ This is a basic Laravel Project with Laravel Role Permission Management System.
 1. Git clone - `https://github.com/Utamieahmad/usermanagement.git`
 1. Install Laravel Dependencies - `composer update`
 1. Create database - `laravel_role`
-1. Migrate Database - excute file .sql from 'usermanagement/database/sql/laravel_role.sql'
+1. Migrate Database - excute file from tools mysql (etc: navicat, SQLyog, Xampp....) .sql from 'usermanagement/database/sql/laravel_role.sql'
 1. Run Project - `php artisan serve`
 
 Since, there is any problem to seeder, Please import the .sql file directly - https://github.com/ManiruzzamanAkash/laravel-role/blob/master/database/sql/laravel_role.sql
